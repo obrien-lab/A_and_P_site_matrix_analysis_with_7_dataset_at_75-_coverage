@@ -9,4 +9,4 @@ Translation elongation rate analysis at amino acid, tRNA, and Codon level by rib
 10. The robustness of each pair defines by the two filter criteria. For each pair, All seven dataset percentage change directions should be in the same direction. Any four datasets should show the statistically significant p-value.
 14. Created A and P site matrix at amino acid, tRNA, and Codon level
 
-citation : Ahmed, N., Friedrich, U. A., Sormanni, P., Ciryam, P., Altman, N. S., Bukau, B., ... & O'Brien, E. P. (2020). Pairs of amino acids at the P-and A-sites of the ribosome predictably and causally modulate translation-elongation rates. Journal of Molecular Biology, 432(24), 166696.
+Citation : Ahmed, N., Friedrich, U. A., Sormanni, P., Ciryam, P., Altman, N. S., Bukau, B., ... & O'Brien, E. P. (2020). Pairs of amino acids at the P-and A-sites of the ribosome predictably and causally modulate translation-elongation rates. Journal of Molecular Biology, 432(24), 166696.
